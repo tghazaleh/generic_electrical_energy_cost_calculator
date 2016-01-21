@@ -11,6 +11,7 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 //        test from web
+        //test with abbadi
         setContentView(android.R.layout.activity_list_item);
     }
 
